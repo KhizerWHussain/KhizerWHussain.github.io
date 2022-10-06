@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/firstrepo/static/css/main.5487d3ef.css",
+    "main.js": "/firstrepo/static/js/main.6ffe0dfd.js",
+    "static/js/787.82d36865.chunk.js": "/firstrepo/static/js/787.82d36865.chunk.js",
+    "index.html": "/firstrepo/index.html",
+    "main.5487d3ef.css.map": "/firstrepo/static/css/main.5487d3ef.css.map",
+    "main.6ffe0dfd.js.map": "/firstrepo/static/js/main.6ffe0dfd.js.map",
+    "787.82d36865.chunk.js.map": "/firstrepo/static/js/787.82d36865.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5487d3ef.css",
+    "static/js/main.6ffe0dfd.js"
+  ]
+}
